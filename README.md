@@ -12,7 +12,7 @@ My mother tongue is Czech, but I'm also proficient in English at C1 level, and I
 Besides electrical knowledge and proficiency working with micro controllers and micro processors, my main specialization is programming in C. I also know some C++ and C#, alongside basic knowledge of the Unity Engine. I have an idea of working with and developing basic game engine systems, alongside basic knowledge of rendering systems and API's.
 
 ## Projects
-My main, long standing project is [Zenithra Engine]([url](https://github.com/TheRealVoidly/ZenithraEngine)), a very basic game 'engine' that utilizes my own memory management and basic systems.
+My main, long standing project is [Zenithra Engine](https://github.com/TheRealVoidly/ZenithraEngine), a very basic game 'engine' that utilizes my own memory management and basic systems.
 
 With this project, I have went through a few iterations already, even before I started using GitHub. Development since has been kind of slow, as I have been focusing on other stuff.
 
