@@ -1,4 +1,4 @@
-# Adrian Opluštil - Game and systems engineer
+# Adrian Opluštil a.k.a. Voidly - Game and systems engineer
 
 ## About me
 I'm a 20 something year old guy from the Czech Republic. I have always been interested in software development, electronics, and overall anything where I can create something - from nothing.
