@@ -14,6 +14,6 @@ Besides electrical knowledge and proficiency working with micro controllers and 
 ## Projects
 My main, long standing project is [Zenithra Engine](https://github.com/TheRealVoidly/ZenithraEngine), a very basic game 'engine' that utilizes my own memory management and basic systems.
 
-With this project, I have went through a few iterations already, even before I started using GitHub. Development since has been kind of slow, as I have been focusing on other stuff.
+I wanted to write my own engine in C as a challenge and to learn how basic systems and game engines work under the hood.
 
-My other projects are simple games and programs, like Minesweeper written in C from scratch.
+With this project, I have went through a few iterations already, even before I started using GitHub. Development since has been kind of slow, as I have been focusing on other stuff.
